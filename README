@@ -11,6 +11,7 @@ xresources
 newterm
 w3m
 scrollback
+anysize
 
 Requirements
 ------------
