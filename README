@@ -10,6 +10,7 @@ font2
 xresources
 newterm
 w3m
+scrollback
 
 Requirements
 ------------
